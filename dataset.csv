@@ -1,0 +1,8 @@
+Student_ID,Name,Image_Dir,S_gender,S_parents_number,S_Dept,S_semester
+001,"Danish Taimoor",images/001_danish_taimoor/,"Male",03182110366,"BSCS","8th"
+002,"Fahad Mustafa",images/002_fahad_mustafa/,"Male",03702083862,"BSphy","7th"
+004,"Ahad",images/004_ahad/,"Male",03182110366,"BSCS","4th"
+005,"Uzair",images/005_uzair/,"Male",03043847967,"BSIT","8th"
+006,"Rafay",images/006_rafay/,"Male",03112118563,"BSIT","8th"
+007,"Sir Haris",images/007_sir_haris,"Male",03443881310,"BSIT","5th"
+
