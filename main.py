@@ -19,6 +19,7 @@ from scipy.spatial.distance import euclidean
 from tkinter import simpledialog
 
 # Determine if running as a PyInstaller bundle
+
 if getattr(sys, 'frozen', False):
     base_path = sys._MEIPASS
 else:
